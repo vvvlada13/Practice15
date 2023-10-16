@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practice15</string>
+    <string name="email">Введите e-mail</string>
+    <string name="name">Введите имя</string>
+    <string name="btn">Передать информацию</string>
+</resources>
